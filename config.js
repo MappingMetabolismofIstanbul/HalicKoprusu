@@ -170,66 +170,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        },
-         {
-            id: '5',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/FLVb9FH2/MEF-AAP-027-BAP-2025-08-06-19-15-42.png',
-            description: '',
-            location: {
-                center: [28.942,41.043],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-         {
-            id: '6',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/8DHGBn5T/MEF-AAP-027-BAP-2025-08-06-19-16-04.png',
-            description: '',
-            location: {
-                center: [28.942,41.043],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
+       
         },
     ]
 };
